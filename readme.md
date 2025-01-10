@@ -24,4 +24,4 @@ int main(){
 </div>
 
 
-**se eu não tiver presente para postar novos exercícios, me deixa descansar pô*
+**se eu não tiver presente para postar novos exercícios, me deixa descansar pô**
