@@ -20,6 +20,3 @@ int main(){
 }
 ```
 
-<p align="right">
-	![um gif de um anime daora](https://s4.ezgif.com/tmp/ezgif-4-d47b89321a.gif)
-</p>
