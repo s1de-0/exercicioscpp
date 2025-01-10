@@ -3,13 +3,13 @@
 
 *(não venha na minha dm com merdas, apenas veja e aplique)*
 
-[Apostila/Documentação Brasileira de C++](https://www.cmmprogressivo.net/p/introducao-ao-estudo-do-c.html/)
+[Apostila/Documentação Brasileira de C++](https://www.cmmprogressivo.net/p/introducao-ao-estudo-do-c.html/) -> aonde eu estou aprendendo onde programar em c++
 
-[Documentação Brasileira da Microsoft de C++](https://learn.microsoft.com/pt-br/cpp/?view=msvc-170/)
+[Documentação Brasileira da Microsoft de C++](https://learn.microsoft.com/pt-br/cpp/?view=msvc-170/) -> documentação legalzinha
 
-[GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/?ref=gcse_outind)
+[GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/?ref=gcse_outind) -> aprender nunca é demais
 
-[Repositório de Exercícios de C++](https://github.com/isquicha/exercicios-logica-c/)
+[Repositório de Exercícios de C++](https://github.com/isquicha/exercicios-logica-c/) -> aonde você pode ter exercícios por fazer
 
 ```cpp
 #include <iostream>
