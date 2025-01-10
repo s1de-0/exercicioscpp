@@ -18,7 +18,7 @@ int main(){
 	cout << "\tcaso não pensem que fiz a custa de outras tecnologias" << endl;
 	return 0;
 }
-
+```
 
 <p align="right">
 	![um gif de anime daora](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBwbGZxeWFrYzc3bm9ncG53czNkZm0xcGwxNHF1cmN6cDdxdm15cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.webp)
