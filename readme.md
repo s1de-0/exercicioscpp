@@ -5,9 +5,11 @@
 
 [Apostila/Documentação Brasileira de C++](https://www.cmmprogressivo.net/p/introducao-ao-estudo-do-c.html/)
 
-[Documentação Brasileira da Microsoft de CPP](https://learn.microsoft.com/pt-br/cpp/?view=msvc-170/)
+[Documentação Brasileira da Microsoft de C++](https://learn.microsoft.com/pt-br/cpp/?view=msvc-170/)
 
 [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/?ref=gcse_outind)
+
+[Repositório de Exercícios de C++](https://github.com/isquicha/exercicios-logica-c/)
 
 ```cpp
 #include <iostream>
