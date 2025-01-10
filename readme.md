@@ -19,3 +19,6 @@ int main(){
 	return 0;
 }
 ```
+<div align="right">
+  <img src="https://media1.tenor.com/m/I4ZQItsHVMgAAAAC/anime.gif" alt="Shigure UI Dance">
+</div>
