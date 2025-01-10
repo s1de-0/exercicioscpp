@@ -9,4 +9,12 @@
 
 [GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/?ref=gcse_outind)
 
-	
+```cpp
+#include <iostream>
+using namespace std;
+
+int main(){
+	cout << "um leve adendo, esses exercícios são feitos por mim" << endl;
+	cout << "\tcaso não pensem que fiz a custa de outras tecnologias" << endl;
+	return 0;
+}
